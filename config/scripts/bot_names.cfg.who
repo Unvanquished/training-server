@@ -1,0 +1,10 @@
+bot del all
+bot names clear
+
+bot names aliens "^1[dw50]Mr. Sin" "^1[dw50]Kroll" "^1[dw50]Meglos"  "^1[dw50]Davros"  "^1[dw50]Animus"    "^1[dw50]Fenric"    "^1[dw50]Dalek Caan"
+bot names aliens "^1[dw50]Fendahl" "^1[dw50]Bok"   "^1[dw50]Restac"  "^1[dw50]Solomon" "^1[dw50]Broton"    "^1[dw50]Aggedor"   "^1[dw50]Dalek Thay"                   
+bot names aliens "^1[dw50]Gravis"  "^1[dw50]Sil"   "^1[dw50]Scaroth" "^1[dw50]Sutekh"  "^1[dw50]Trickster" "^1[dw50]Dalek Sec" "^1[dw50]Dalek Jast"
+
+bot names humans "^4[dw50]Brig. Lethbridge-Stewart" "^4[dw50]Captain Yates" "^4[dw50]Ian Chesterton" "^4[dw50]Mickey Smith"  "^4[dw50]Vislor Turlough" "^4[dw50]Luke Smith"  "^4[dw50]Adric"
+bot names humans "^4[dw50]Sergeant Benton"          "^4[dw50]Jack Harkness" "^4[dw50]Ben Jackson"    "^4[dw50]Wilfred Mott"  "^4[dw50]Adam Mitchell"   "^4[dw50]Pete Tyler"  "^4[dw50]Jamie McCrimmon"
+bot names humans "^4[dw50]Professor Chronotis"      "^4[dw50]Ianto Jones"   "^4[dw50]Harry Sullivan" "^4[dw50]Rory Williams" "^4[dw50]Edwin Bracewell" "^4[dw50]Henry Avery" "^4[dw50]Fitz Kreiner"

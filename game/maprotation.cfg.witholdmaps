@@ -1,0 +1,85 @@
+rotation1
+{
+	chasm
+	{
+		exec scripts/add_bots.cfg
+	}
+	plat23
+	{
+		layouts kill-humans
+		exec scripts/kill-humans.cfg
+	}
+	yocto
+	{
+		exec scripts/add_bots.cfg
+	}
+	// Too dark since gamma changes, aliens kill single armoury when attacking player on medistation
+	//tremor
+	//{
+	//	layouts kill-aliens kill-aliens-2
+	//	exec scripts/kill-aliens.cfg
+	//}
+	plat23
+	{
+		exec scripts/add_bots.cfg
+	}
+	karith
+	{
+		layouts kill-humans
+		exec scripts/kill-humans-nopowermod.cfg
+	}
+	nano
+	{
+		exec scripts/add_bots.cfg
+	}
+	arachnid2
+	{
+		layouts kill-aliens kill-aliens-2
+		exec scripts/kill-aliens-more.cfg
+	}
+	arachnid2
+	{
+		exec scripts/add_bots.cfg
+	}
+	chasm
+	{
+		layouts kill-humans
+		exec scripts/kill-humans-nopowermod.cfg
+	}
+	orion
+	{
+		exec scripts/add_bots.cfg
+	}
+	nano
+	{
+		layouts kill-humans kill-humans-2
+		exec scripts/kill-humans-more.cfg
+	}
+	spacetracks
+	{
+		exec scripts/add_bots.cfg
+	}
+	station15-r1
+	{
+		layouts deinfestation-2
+		exec scripts/deinfest-station15.cfg
+	}
+	UTCS
+	{
+		exec scripts/add_bots.cfg
+	}
+	yocto
+	{
+		layouts kill-humans
+		exec scripts/kill-humans-nopowermod.cfg
+	}
+	plat23
+	{
+		exec scripts/add_bots.cfg
+	}
+	niveus
+	{
+		layouts kill-aliens-community
+		exec scripts/kill-aliens-more.cfg
+	}
+}

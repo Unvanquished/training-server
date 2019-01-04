@@ -1,0 +1,29 @@
+[level]
+level   = 5
+name    = ^1Unvanquished Developer
+flags   = ALLFLAGS -IMMUTABLE -INCOGNITO
+
+[level]
+level   = 4
+name    = ^3Senior Admin
+flags   = ADMINCHAT +IMMUNITY adminhelp admintest +allready ban bot builder buildlog cancelvote +changemap +denybuild kick l0 l1 +listgeoip +listlayouts listplayers +lock +longstrip mute namelog +nextmap +pause putteam register +rename revert showbans spec999 strip time unregister unstrip warn
+
+[level]
+level   = 3
+name    = ^2Junior Admin
+flags   = ADMINCHAT adminhelp admintest builder buildlog cancelvote kick l0 l1 +listgeoip +listlayouts listplayers mute putteam register spec999 time unregister warn
+
+[level]
+level   = 2
+name    = ^6Training Helper
+flags   = adminhelp admintest builder +listlayouts listplayers putteam register spec999 time unregister
+
+[level]
+level   = 1
+name    = ^5Server Regular
+flags   = adminhelp admintest +listlayouts listplayers register time unregister
+
+[level]
+level   = 0
+name    = ^4Unknown Player
+flags   = listplayers admintest adminhelp time register
