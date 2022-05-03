@@ -1,0 +1,7 @@
+This layout is meant to be played as humans only (/lock a),
+without building (/disabledEquipment "ckit", or at least
+disabled building stuff, even if not repairing).
+Ideally, alien bots should have a dedicated behavior to be
+less rushy, and spawn in a more balanced fashion.
+There should be roughly 1.5 alien per human.
+It is meant for maximum 4 human players.
